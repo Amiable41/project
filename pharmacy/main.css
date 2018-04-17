@@ -1,0 +1,18 @@
+ .gend{
+    display: inline-block;  
+    position: relative;
+    bottom: 20px; 
+
+} 
+
+.box{
+    width: 50%;
+    box-shadow: 2px 2px 2px 2px;
+    background-color:silver;
+    padding: 2px;
+}
+body{
+    background-color: gold;
+}
+            
+             

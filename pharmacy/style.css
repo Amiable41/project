@@ -1,0 +1,22 @@
+.txt{
+    background-color: rgb(1, 1, 165);
+    padding: 80px;
+}
+.btn{
+    background-color:blue;
+    color:white;
+}
+footer{
+    background-color: rgb(1, 1, 43);
+    min-height: 8rem;
+
+}
+.card-img-top{
+    border-radius: 50%;
+    width:100%
+}
+.foot{
+    color:white;
+    position: relative;
+    bottom: 20px;
+}
